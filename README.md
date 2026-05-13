@@ -1,4 +1,4 @@
-#CADASTRO DE CLIENTES EM PYTHON
+#CADASTRO DE CLIENTES EM PYTHON e em C:
 
 Projeto simples de cadastro de cliente feito em python.
 
@@ -9,5 +9,6 @@ Projeto simples de cadastro de cliente feito em python.
 
  - Liguagem usada: Python;
  - Uso de biblioteca visuais do 'rich';
+ - linguagem C;
  
  
